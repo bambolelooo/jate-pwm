@@ -23,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -78,7 +77,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -89,6 +88,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+![Screenshot 2023-03-25 at 10 14 05 PM](https://user-images.githubusercontent.com/63548697/227802312-8479069b-c6b6-4e40-a7e9-64aea5b4bbdc.png)
 
 
 <!-- GETTING STARTED -->
